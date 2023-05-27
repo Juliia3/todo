@@ -1,7 +1,7 @@
 {
   "name": "todo__typescript",
   "version": "1.0.0",
-  "homepage": "https://juliia3.github.io/todo__typescript/",
+  
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "dependencies": {
